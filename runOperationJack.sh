@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo python /home/pi/led.py
+sudo python /home/pi/jack.py
